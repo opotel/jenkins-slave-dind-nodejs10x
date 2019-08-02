@@ -1,0 +1,1 @@
+# jenkins-slave-dind-nodejs10x
